@@ -2,25 +2,44 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>National Institute of Mental Health and Neurosciences (NIMHANS), Bengaluru</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.png
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Associate Professor of Psychiatry</p>
+    <p>Integrative Medicine, NIMHANS</p>
+    <p>Bengaluru, 560029</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+news: true  # includes a list of news items
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+With an MD, PhD, his professional pursuits span patient care, research, and post-graduate training in psychiatry. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+After his postgraduate residency in psychiatry, Dr. Holla specialized in addiction psychiatry through a post-doctoral clinical fellowship at NIMHANS. His PhD research honed in on the imaging-genomics of addiction vulnerability in adolescents.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+He is keen on forging novel treatment modalities for psychiatric disorders and incorporating traditional approaches like Yoga and Ayurveda for holistic well-being. 
+
+His research interests include:
+  - _Biological Psychiatry_, 
+  - _Addiction Medicine_, 
+  - _Evidence-based Integrative Psychiatry_, 
+  - _Population Neuroscience_, 
+  - _Neuroimaging_,  
+  - _Genetics_.
+
+Dr. Holla is actively involved as an investigator in several deep phenotyping neuroscience research in India, including 
+  - The Consortium on the Vulnerability to Externalizing Disorders and Addictions (c-VEDA) [cveda-project.org], 
+  - Pathways to Resilience and Mental Health (PARAM), 
+  - Accelerator program for Discovery in Brain disorders using Stem cells (ADBS) [adbsnimhans.org],  
+  - The Centre for Brain and Mind (CBM)
+  - Yoga and Ayurveda in Neuroscience - Translational Research Accelerator Programme (YANTRA) 
+
+He strongly advocates for the advancement of neuroscience and psychiatry through open-science and multi-disciplinary collaborations. 
+
+His engagement in numerous multi-institutional and international population neuroscience projects has culminated in high-impact research publications and meaningful contributions to the community.

@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hollabharath
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - hollabharath/IndiaBrainTemplates
+  - hollabharath/cveda_mri
+  - hollabharath/adbs-clinical-database
+  - hollabharath/MolGenLab-NIMHANS-CodeLibrary
+
