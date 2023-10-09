@@ -23,8 +23,6 @@ With an MD, PhD, his professional pursuits span patient care, research, and post
 
 After his postgraduate residency in psychiatry, Dr. Holla specialized in addiction psychiatry through a post-doctoral clinical fellowship at NIMHANS. His PhD research honed in on the imaging-genomics of addiction vulnerability in adolescents.
 
-He is keen on forging novel treatment modalities for psychiatric disorders and incorporating traditional approaches like Yoga and Ayurveda for holistic well-being. 
-
 His research interests include:
   - _Biological Psychiatry_, 
   - _Addiction Medicine_, 
@@ -43,3 +41,5 @@ Dr. Holla is actively involved as an investigator in several deep phenotyping ne
 He strongly advocates for the advancement of neuroscience and psychiatry through open-science and multi-disciplinary collaborations. 
 
 His engagement in numerous multi-institutional and international population neuroscience projects has culminated in high-impact research publications and meaningful contributions to the community.
+
+He is keen on forging novel treatment modalities for psychiatric disorders and incorporating traditional approaches like Yoga and Ayurveda for holistic well-being. 
